@@ -19,13 +19,13 @@ This command will check for updates and then install any new updates that are av
     2 Changing Directories in Linux
 this command helps in navigating system directories and subdirectories
       
-        ◦ cd [directory_name] example cd Download
+        ◦ cd [directory_name] 
+
+       example cd Downloads
          
      The directory names are case sensitive
           
-          To move into a subdirector
-      
-        ◦ cd Document/cafe/receipts
+       Example To move into a subdirector -- cd Documents/cafe/receipts
 
     3 To remove a file from a directory
         ◦ rm [file name]
