@@ -3,4 +3,4 @@
 A markdown cheat sheet for Linux commands
 To use these command the operator needs to have access to the terminal and the commands that starts with “sudo” needs administrator privileges to run. 
 The commands cheat sheet for the cafe staff members to use can be found in cheatsheet.md file in this repo. To run them the user needs to open the terminal by “Ctrl+Alt+T”.
-Pick a command, read what it does, type it in the terminal, press Enter — then commit and submit.
+Pick a line from the cheatsheet, read what it does type it or copy and paste in the terminal, press Enter.
