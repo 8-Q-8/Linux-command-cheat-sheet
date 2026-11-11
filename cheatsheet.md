@@ -27,7 +27,7 @@ this command helps in navigating system directories and subdirectories
           
        Example To move into a subdirector -- cd Documents/cafe/receipts
 
-    3 To remove a file from a directory
+    3 To remove a file from a directory "Warning using this command permanently Deletes a file"
         ◦ rm [file name]
 
     4 To Check for active users
