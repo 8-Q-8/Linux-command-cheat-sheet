@@ -30,9 +30,9 @@ this command helps in navigating system directories and subdirectories
     3 To remove a file from a directory "Warning using this command permanently Deletes a file"
         ◦ rm [file name]
 
-    4 To Check for active users
+    4 To Check for active users. this command checks for active users on the system and displays them.
         ◦ id 
 
-    5 To Check for last system logins
+    5 To Check for last system logins. This command checks for which user was last logged-in
         ◦ last
 	
