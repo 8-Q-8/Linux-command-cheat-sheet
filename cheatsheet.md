@@ -13,7 +13,7 @@ Checks updates for application but does not install them.
 Downloads and installs the latest versions of all software packages currently installed on your system
 To do them both in one go type
 
-        ◦ sudo apt upgrade && upgrade
+        ◦ sudo apt upgrade && apt upgrade
 This command will check for updates and then install any new updates that are available
 
     2 Changing Directories in Linux
